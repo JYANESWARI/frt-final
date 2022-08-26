@@ -42,7 +42,7 @@ Ecourse is our project that is done as also called an online course, is any cour
 # Screenshots
 
 
-# About Us
+# About Me
 We are BTech pursuing Student,from Btech 3rd year we consider this as problem as we facing the same situations in daily life lack of knowledge in basic concepts 
 
 -  G Jyaneswari
