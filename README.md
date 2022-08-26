@@ -50,5 +50,4 @@ We are BTech pursuing Student,from Btech 3rd year we consider this as problem as
 
 
 # Privacy Policies 
-
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
+https://www.freeprivacypolicy.com/live/d7ae4d4c-ea9a-4125-b0b8-92edfdca0a1e
